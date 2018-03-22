@@ -1,0 +1,13 @@
+{
+  "name": "Better Bookmarks Chrome",
+  "version": "1.0",
+  "description": "Proof of concept for better bookmarks experience in Google Chrome.",
+  "chrome_url_overrides" : {
+    "bookmarks": "bookmarks.html"
+  },
+  "permissions": [
+    "bookmarks"
+  ],
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com https://cdn.datatables.net https://jsbeautifier.org; object-src 'self'"
+}
