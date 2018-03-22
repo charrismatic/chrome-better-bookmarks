@@ -1,5 +1,5 @@
 # chrome-better-bookmarks
-Proof of concept for better bookmarks experience in Google Chrome
+Proof of concept chrome extension for better bookmarks experience in Google Chrome
 
 ## Features 
 - Datatables.js for fast sort and filtering 
